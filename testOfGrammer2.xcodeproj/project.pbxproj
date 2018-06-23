@@ -14,6 +14,8 @@
 		F8EE74FC20D00217008D5A59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8EE74FA20D00217008D5A59 /* LaunchScreen.storyboard */; };
 		F8EE750720D00217008D5A59 /* testOfGrammer2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EE750620D00217008D5A59 /* testOfGrammer2Tests.swift */; };
 		F8EE751220D00217008D5A59 /* testOfGrammer2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EE751120D00217008D5A59 /* testOfGrammer2UITests.swift */; };
+		F8EE752020D002B1008D5A59 /* pauseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = F8EE751F20D002B1008D5A59 /* pauseButton.png */; };
+		F8EE752220D002D6008D5A59 /* start.png in Resources */ = {isa = PBXBuildFile; fileRef = F8EE752120D002D6008D5A59 /* start.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		F8EE750D20D00217008D5A59 /* testOfGrammer2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testOfGrammer2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8EE751120D00217008D5A59 /* testOfGrammer2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testOfGrammer2UITests.swift; sourceTree = "<group>"; };
 		F8EE751320D00217008D5A59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8EE751F20D002B1008D5A59 /* pauseButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pauseButton.png; sourceTree = "<group>"; };
+		F8EE752120D002D6008D5A59 /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				F8EE74F120D00213008D5A59 /* AppDelegate.swift */,
 				F8EE74F320D00213008D5A59 /* ViewController.swift */,
 				F8EE74F520D00214008D5A59 /* Main.storyboard */,
+				F8EE752120D002D6008D5A59 /* start.png */,
+				F8EE751F20D002B1008D5A59 /* pauseButton.png */,
 				F8EE74F820D00217008D5A59 /* Assets.xcassets */,
 				F8EE74FA20D00217008D5A59 /* LaunchScreen.storyboard */,
 				F8EE74FD20D00217008D5A59 /* Info.plist */,
@@ -229,7 +235,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8EE752020D002B1008D5A59 /* pauseButton.png in Resources */,
 				F8EE74FC20D00217008D5A59 /* LaunchScreen.storyboard in Resources */,
+				F8EE752220D002D6008D5A59 /* start.png in Resources */,
 				F8EE74F920D00217008D5A59 /* Assets.xcassets in Resources */,
 				F8EE74F720D00214008D5A59 /* Main.storyboard in Resources */,
 			);
